@@ -9,7 +9,7 @@
 
 
 
-- 📝 We regularly write articles on [nodeinter.net](nodeinter.net)
+- 📝 We regularly write articles on [https://nodeinter.net](https://nodeinter.net)
 
 - 📫 How to reach us **nodeinter@gmail.com**
 
