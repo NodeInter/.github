@@ -1,15 +1,13 @@
 ![logo](img/NodeInter.png)
 
-
-<h1 align="center">NodeInter</h1>
-
 <hr/>
 <h4 align="center">NodeInter offers essential services for cryptocurrency enthusiasts and professionals by providing in-depth information on cryptocurrency nodes and user-friendly guides to help you start and manage your own node. Through comprehensive educational resources, including tutorials and articles, NodeInter empowers users at all levels, from beginners to advanced. We keep you updated with the latest news on project developments and provide detailed technical analysis to help you make informed investment decisions. Our vibrant community thrives on Whatsapp, Twitter, and Telegram, fostering engagement and learning.
+  
 </h4>
 
+---
 
-
-- 📝 We regularly write articles on [https://nodeinter.net](https://nodeinter.net)
+- 📝 We regularly write articles on **https://nodeinter.net**
 
 - 📫 How to reach us **nodeinter@gmail.com**
 
