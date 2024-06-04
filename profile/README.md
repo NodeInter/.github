@@ -4,7 +4,7 @@
 <h1 align="center">NodeInter</h1>
 
 <hr/>
-<h4 align="center">NodeInter is an Independent Node and validator, contributing to Cosmos Ecosystem and various other blockchain network, offering valuable data analytics, scripting tools & services that have earned recognition from prominent crypto projects. NodeInter mission is to participate in building and being involved in a blockchain project, and helping a project reach the milestones they are targeting.
+<h4 align="center">NodeInter offers essential services for cryptocurrency enthusiasts and professionals by providing in-depth information on cryptocurrency nodes and user-friendly guides to help you start and manage your own node. Through comprehensive educational resources, including tutorials and articles, NodeInter empowers users at all levels, from beginners to advanced. We keep you updated with the latest news on project developments and provide detailed technical analysis to help you make informed investment decisions. Our vibrant community thrives on Whatsapp, Twitter, and Telegram, fostering engagement and learning.
 </h4>
 
 
