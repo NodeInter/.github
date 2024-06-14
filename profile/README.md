@@ -1,4 +1,4 @@
-![logo](img/NodeInter.png)
+![logo](https://github.com/NodeInter/.github/blob/main/img/NodeInter.png)
 
 <hr/>
 <h4 align="center">NodeInter offers essential services for cryptocurrency enthusiasts and professionals by providing in-depth information on cryptocurrency nodes and user-friendly guides to help you start and manage your own node. Through comprehensive educational resources, including tutorials and articles, NodeInter empowers users at all levels, from beginners to advanced. We keep you updated with the latest news on project developments and provide detailed technical analysis to help you make informed investment decisions. Our vibrant community thrives on Whatsapp, Twitter, and Telegram, fostering engagement and learning.
@@ -15,14 +15,14 @@
 
 <h3 align="center"> 🟢 VALIDATOR NODES HISTORY 🟢</h3>
 
-[<img src='img/subsquid.png' height='100'>](https://github.com/PrastianHD/NodeInter/tree/main/Subsquid)
-[<img src='img/avail.png' height='100'>](https://github.com/PrastianHD/NodeInter/blob/main/Avail%20-%20Madara/madara.md)
-[<img src='img/dusk-network.png' height='100'>](https://nodeinter.net/docs/dusk-network/)
-[<img src='img/powerloom.png' height='100'>](https://nodeinter.net/docs/powerloom/)
-[<img src='img/farcaster.png' height='100'>](https://nodeinter.net/docs/farcaster/)
-[<img src='img/initia.png' height='100'>](https://nodeinter.net/docs/initia/)
-[<img src='img/carvprotocol.png' height='100'>](https://nodeinter.net/docs/carv-protocol/)
-[<img src='img/movement.png' height='100'>](https://github.com/PrastianHD/NodeInter/)
+[<img src='https://github.com/NodeInter/.github/blob/main/img/subsquid.png' height='100'>](https://github.com/PrastianHD/NodeInter/tree/main/Subsquid)
+[<img src='https://github.com/NodeInter/.github/blob/main/img/avail.png' height='100'>](https://github.com/PrastianHD/NodeInter/blob/main/Avail%20-%20Madara/madara.md)
+[<img src='https://github.com/NodeInter/.github/blob/main/img/dusk-network.png' height='100'>](https://nodeinter.net/docs/dusk-network/)
+[<img src='https://github.com/NodeInter/.github/blob/main/img/powerloom.png' height='100'>](https://nodeinter.net/docs/powerloom/)
+[<img src='https://github.com/NodeInter/.github/blob/main/img/farcaster.png' height='100'>](https://nodeinter.net/docs/farcaster/)
+[<img src='https://github.com/NodeInter/.github/blob/main/img/initia.png' height='100'>](https://nodeinter.net/docs/initia/)
+[<img src='https://github.com/NodeInter/.github/blob/main/img/carvprotocol.png' height='100'>](https://nodeinter.net/docs/carv-protocol/)
+[<img src='https://github.com/NodeInter/.github/blob/main/img/movement.png' height='100'>](https://nodeinter.net/docs/movement/)
 
 <hr/>
 
